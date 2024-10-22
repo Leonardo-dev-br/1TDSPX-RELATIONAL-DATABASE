@@ -1,0 +1,11 @@
+SELECT
+    cod_endereco,
+    nome_rua,
+    numero,
+    cep,
+    bairro,
+    cidade,
+    pais,
+    complemento
+FROM
+    tb_endereco;
